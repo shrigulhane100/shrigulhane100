@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.linkedin.com/in/shrigulhane100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrigulhane100" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shriyash_gulhane/?igshid=YmMyMTA2M2Y%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_?igshid=YmMyMTA2M2Y=" height="30" width="40" /></a>
-<a href="https://kaggle.com/shrigulhane100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="/shrigulhane100" height="30" width="40" /></a>  
+<a href="https://www.kaggle.com/iitm22ds2000181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="/shrigulhane100" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
