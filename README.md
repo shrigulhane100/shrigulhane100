@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Snake animation](https://github.com/shrigulhane100/snake.svg/blob/main/github-contribution-grid-snake.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sj0605-datasci&show_icons=true&locale=en&layout=compact" alt="shrigulhane100" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrigulhane100&show_icons=true&locale=en&layout=compact" alt="shrigulhane100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrigulhane100&show_icons=true&locale=en" alt="shrigulhane100" /></p>
 
