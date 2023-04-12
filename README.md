@@ -1,5 +1,8 @@
+<!-- ![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
+
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I’m Shriyash Gulhane </h1>
-- 
+
+
 - 👀 I’m interested in Deep Learning- Self Driving Car, artificial Intelligence, algo-trading.
 - 🌱 I’m currently learning Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on advance part time projects.
