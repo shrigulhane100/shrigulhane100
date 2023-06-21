@@ -1,7 +1,7 @@
 <!-- ![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shriyash Gulhane </h1>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D4D16AQFY-CI0Zq_-rA/profile-displaybackgroundimage-shrink_350_1400/0/1676957179871?e=1686787200&v=beta&t=n0XmPClAmX-NRbxVfJzL5GZwQ_OnnZP7Zjrl4yivx1c" alt="sj0605-datasci" /> </p>
+
 
 - 👀 I’m interested in Deep Learning- Self Driving Car, artificial Intelligence, algo-trading.
 - 🌱 I’m currently learning Data Science, Machine Learning
