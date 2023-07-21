@@ -1,11 +1,11 @@
 <!-- ![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shriyash Gulhane </h1>
 
+![Alt text](https://github.com/shrigulhane100/shrigulhane100/blob/main/1676957179871.jpeg)
 
-
-- 👀 I’m interested in Deep Learning- Self Driving Car, artificial Intelligence, algo-trading.
+- 👀 I’m interested in Deep Learning, Self Driving Cars, Artificial Intelligence, and algo-trading.
 - 🌱 I’m currently learning Data Science, Machine Learning
-- 💞️ I’m looking to collaborate on advance part time projects.
+- 💞️ I’m looking to collaborate on advanced part-time projects.
 - 📫 You can reach me at shriswimmer@gmail.com
 
 <!---
